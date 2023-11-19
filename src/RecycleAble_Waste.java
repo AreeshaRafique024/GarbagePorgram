@@ -1,0 +1,3 @@
+public enum RecycleAble_Waste {
+    PLASTIC,CARD_BOARD,STEEL,PAPER,LEATHER,CLOTHES,WOOD
+}
